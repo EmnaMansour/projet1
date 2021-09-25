@@ -1,0 +1,10 @@
+.title {
+    color: rgb(61, 165, 130);
+    font-size: medium;
+    border: mediumorchid ;
+}
+
+.d-block{
+    height: 500px;
+    width: 500px;
+}
